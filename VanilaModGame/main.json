@@ -1,0 +1,9 @@
+[
+    ["items.json","items"],
+    ["texturesItems.json","textures"],
+    ["texturesBuilds.json","textures"],
+    ["options.json","options"],
+    ["names.json","names"],
+    ["builds.json","builds"],
+    ["loot_table.json","loot_table"]
+]
