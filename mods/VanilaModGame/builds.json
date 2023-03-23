@@ -1,0 +1,20 @@
+{
+    "iron_meteor":{
+        "name":"iron_meteor",
+        "live":30,
+        "loot_table":"iron_meteor",
+        "texture":"iron_meteor"
+    },
+    "meteor":{
+        "name":"meteor",
+        "live":20,
+        "loot_table":"meteor",
+        "texture":"meteor"
+    },
+    "gold_meteor":{
+        "name":"gold_meteor",
+        "live":33,
+        "loot_table":"gold_meteor",
+        "texture":"gold_meteor"
+    }
+}

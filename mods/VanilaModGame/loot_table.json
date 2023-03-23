@@ -1,0 +1,11 @@
+{
+    "iron_meteor":[
+        {"name":"iron_ore","amount":{"range":[1,3]}},{"name":"space_stone","amount":{"range":[1,4]}}
+    ],
+    "gold_meteor":[
+        {"name":"gold_ore","amount":{"range":[1,3]}},{"name":"space_stone","amount":{"range":[1,4]}}
+    ],
+    "meteor":[
+        {"name":"space_stone","amount":{"range":[2,5]}}
+    ]
+}

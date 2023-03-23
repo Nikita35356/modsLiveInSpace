@@ -1,0 +1,17 @@
+{
+    "iron_meteor": {
+        "type":"image",
+        "format":"png",
+        "path":"textureBuilds/iron_meteor.png"
+    },
+    "gold_meteor": {
+        "type":"image",
+        "format":"png",
+        "path":"textureBuilds/gold_meteor.png"
+    },
+    "meteor": {
+        "type":"image",
+        "format":"png",
+        "path":"textureBuilds/meteor.png"
+    }
+}
