@@ -1,0 +1,43 @@
+{
+    "iron_ore":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/iron_ore.png"
+    },
+    "iron_ingot":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/iron_ingot.png"
+    },
+    "gold_ore":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/gold_ore.png"
+    },
+    "gold_ingot":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/gold_ingot.png"
+    },
+    "ingot":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/ingot.png"
+    },
+    "space_stone":{
+        "type":"image",
+        "format":"png",
+        "path":"textureItem/space_stone.png"
+    },
+    "dovynaid":{
+        "type":"animation",
+        "format":"png",
+        "fps": 8,
+        "path":[
+            "textureItem/dovynaid/1.png",
+            "textureItem/dovynaid/2.png",
+            "textureItem/dovynaid/3.png",
+            "textureItem/dovynaid/4.png"
+        ]
+    }
+}

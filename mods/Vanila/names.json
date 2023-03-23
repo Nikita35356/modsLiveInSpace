@@ -1,0 +1,46 @@
+{
+    "iron_ore":{
+        "ru":"Железная руда",
+        "en":"Iron ore"
+    },
+    "iron_ingot":{
+        "ru":"Железный слиток",
+        "en":"Iron ingot"
+    },
+    "gold_ore":{
+        "ru":"Железная руда",
+        "en":"Gold ore"
+    },
+    "gold_ingot":{
+        "ru":"Золатая руда",
+        "en":"Gold ingot"
+    },
+    "ingot":{
+        "ru":"Слиток",
+        "en":"Empty ingot"
+    },
+    "space_stone":{
+        "ru":"Камень",
+        "en":"Stone"
+    },
+    "dovynaid":{
+        "ru":"Довидиум",
+        "en":"Dovynaid"
+    },
+    "meteor":{
+        "ru":"Метеорит",
+        "en":"Meteor"
+    },
+    "iron_meteor":{
+        "ru":"Железный метеорит",
+        "en":"Iron Meteor"
+    },
+    "gold_meteor":{
+        "ru":"Золотой метеорит",
+        "en":"Gold Meteor"
+    },
+    "not":{
+        "ru":"НЕТ",
+        "en":"NO"
+    }
+}
